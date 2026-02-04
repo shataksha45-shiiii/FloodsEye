@@ -2,8 +2,6 @@
 
 **FloodEye** is a deep learning-based flood severity detection system that utilizes Synthetic Aperture Radar (SAR) imagery from the Sentinel-1 satellite constellation.
 
-![Flood Result](assam_flood_result.png)
-*(Above: Real-world detection of flood expansion in the Brahmaputra River, Assam, July 2024)*
 
 ##  Key Features
 - **Satellite Integration:** Automated pipeline fetching real-time SAR data via Google Earth Engine (GEE).
@@ -24,5 +22,5 @@
 4. **Severity Logic:** Permanent water channels are subtracted from the prediction to isolate *flood* waters.
 
 ##  Author
-**Shataksha Raj Sharma** *Electronics & Communication Engineering, IIIT Naya Raipur* ```
+Shataksha Raj Sharma , Electronics & Communication Engineering, IIIT Naya Raipur.
 
