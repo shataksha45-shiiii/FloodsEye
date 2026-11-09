@@ -1,3 +1,5 @@
+> **Archived:** this is the first prototype. The maintained version is [Sentinel-Response](https://github.com/shataksha45-shiiii/Sentinel-Response).
+
 # FloodEye: Satellite-Based Disaster Analysis System 
 
 **FloodEye** is a deep learning-based flood severity detection system that utilizes Synthetic Aperture Radar (SAR) imagery from the Sentinel-1 satellite constellation.
